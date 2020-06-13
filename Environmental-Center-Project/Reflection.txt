@@ -1,0 +1,15 @@
+Environmental Center Project Reflection
+
+CS Learning Goals: 
+	'To acquire significant project experience working both individually and in a group setting', 
+	'To develop effective problem solving skills',
+	'To understand the concepts and techniques of object-oriented software design'
+
+College Wide Learning Goals: 
+	'Global Responsibility', 
+	'Communication', 
+	'Collaboration', 
+	'Creativity', 
+	'Critical Thinking'
+
+Wow I really think this project applies to all of the college-wide learning goals. This is a project done for the Environmental Center at Westminster. They had a lot of data that was kept and maintained with Microsoft Excel. The goal of the project was to set up a database for them so they could better access and query data about water usage, billing, and anything else in their data. This would save lots of time, while also allowing them to get answers to more complex questions and make smarter decisions. 
