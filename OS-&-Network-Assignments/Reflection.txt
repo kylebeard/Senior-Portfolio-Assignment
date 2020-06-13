@@ -3,7 +3,18 @@ Virtual Memory & ChatRoom Reflection
 Computer Science Learning Goals:'To attain a system level understanding of the computer'
 College Wide Learning Goals: 'Collaboration'
 
-I had to combine these two assignments because I couldn't find anything else that satisfied any of the ways to demonstrate this CS learning goal. However, I still feel like this is a goal I absolutely achieved. I've taken Computer Systems & Programming, Networks, Operating Systems, Architecture, and I feel I have a really solid understanding of computers at a system level. I just couldn't find one single assignment that demonstrated all of that knowledge. A couple years ago I got a virus on my computer and lost a decent amount of assignments so perhaps there was something and I just don't have it anymore. 
+I had to combine these two assignments because I couldn't find anything else that satisfied any of the ways to 
+demonstrate this CS learning goal. However, I still feel like this is a goal I absolutely achieved. I've taken Computer
+Systems & Programming, Networks, Operating Systems, Architecture, and I feel I have a really solid understanding of 
+computers at a system level. I just couldn't find one single assignment that demonstrated all of that knowledge. 
+A couple years ago I got a virus on my computer and lost a decent amount of assignments so perhaps there was something 
+and I just don't have it anymore. 
 
-I chose these assignments really just because they 'Demonstrate how a computer program interacts with the operating system software as well as a network.' The Virtual Memory assignment shows how the Translation Lookaside Buffer (TLB) is used to provide faster access to user memory locations. ChatRoom project demonstrates how a program interacts with a network to allow two people to send messages to each other. I remember this being a tricky project to figure out, but it was also rewarding when me and my partner eventually did finish. It felt pretty awesome when it finally just worked, I could type something and send it and then it would appear on her computer and vice versa. It was a good project. 
+I chose these assignments really just because they 'Demonstrate how a computer program interacts with the operating 
+system software as well as a network.' The Virtual Memory assignment shows how the Translation Lookaside Buffer (TLB) 
+is used to provide faster access to user memory locations. ChatRoom project demonstrates how a program interacts with 
+a network to allow two people to send messages to each other. I remember this being a tricky project to figure out, 
+but it was also rewarding when me and my partner eventually did finish. It felt pretty awesome when it finally just
+worked, I could type something and send it and then it would appear on her computer and vice versa. 
+It was a good project. 
 
