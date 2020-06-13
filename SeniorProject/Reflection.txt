@@ -1,7 +1,13 @@
 Senior Project Reflection
 
-CS Learing Goals: 'To acquire significant project experience working both individually and in a group setting', 'To develop effective problem solving skills'
+CS Learing Goals: 'To acquire significant project experience working both individually and in a group setting', 
+  'To develop effective problem solving skills'
 
 College-wide Learning Goals: 'Critical Thinking', 'Creativity'
 
-My senior project is a task-manager/to-do app for iOS. This was a very productive project for me, I learned a new language (Swift) and a new Framework (SwiftUI). I had never done any mobile development before so this was a totally new skill path. I learned about some design patterns, such as MVC & MVVM. I also had to dive a little bit into design. At first I didn't think much about design, but quickly I realized that design needs to be done before any coding happens. I used Design Applications like Adobe XD and Sketch; I also visited design websites like dribbble.com to see what others were doing and to get inspiration. I learned a lot things and now I have a new skill!
+My senior project is a task-manager/to-do app for iOS. This was a very productive project for me, I learned a new 
+language (Swift) and a new Framework (SwiftUI). I had never done any mobile development before so this was a totally 
+new skill path. I learned about some design patterns, such as MVC & MVVM. I also had to dive a little bit into design. 
+At first I didn't think much about design, but quickly I realized that design needs to be done before any coding 
+happens. I used Design Applications like Adobe XD and Sketch; I also visited design websites like dribbble.com to see 
+what others were doing and to get inspiration. I learned a lot things and now I have a new skill!
