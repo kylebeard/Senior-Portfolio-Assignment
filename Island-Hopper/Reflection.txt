@@ -1,7 +1,15 @@
 Island-Hopper Reflection
 
-CS Learning Goals: 'To acquire significant project experience working both individually and in a group setting', 'To understand the concepts and techniques of object-oriented software design', 'To develop effective problem solving skills'
+CS Learning Goals: 'To acquire significant project experience working both individually and in a group setting', 
+  'To understand the concepts and techniques of object-oriented software design', 
+  'To develop effective problem solving skills'
 
 College-wide Learning Goals: 'Collaboration', 'Communication', 'Creativity' 
 
-This was a semester-long project done in Software Engineering. I worked with 3 other people, and since it was such a big project split amongst 4 of us, we really had to learn how to effectively communicate and also how to use Github. It was a tough project, pretty much starting from nothing, we had to research and choose our own tech stack, then learn how to use all of the technologies since almost everything was new to us. Unfortunately I can't get this project to run, it has 29 security issues found by Github and our dependencies are now 3 years old; but I still think it has value, it was a big project that we wrote from the ground up, we werent given a skeleton of the project to fill in, we had to decide on the structure of the app ourselves which was challenging. 
+This was a semester-long project done in Software Engineering. I worked with 3 other people, and since it was such 
+a big project split amongst 4 of us, we really had to learn how to effectively communicate and also how to use Github. 
+It was a tough project, pretty much starting from nothing, we had to research and choose our own tech stack, then 
+learn how to use all of the technologies since almost everything was new to us. Unfortunately I can't get this project
+to run, it has 29 security issues found by Github and our dependencies are now 3 years old; but I still think it has value, 
+it was a big project that we wrote from the ground up, we weren't given a skeleton of the project to fill in, we had to 
+decide on the structure of the app ourselves which was challenging. 
