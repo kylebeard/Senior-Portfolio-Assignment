@@ -1,7 +1,11 @@
 Asteroids Reflection
 
-Computer Science learning goals: 'To understand the concepts and techniques of object-oriented software design', 'To develop effective problem solving skills'
+Computer Science learning goals: 'To understand the concepts and techniques of object-oriented software design', 
+  'To develop effective problem solving skills'
 
 College-Wide learning goal: 'Critical Thinking'
 
-I chose this assignment because I believe this was one of the first projects that I worked on at Westminster. In Intro to Data Structures we had 5-Iterations of this project, which I think meant 5 weeks that we spent on it. It was the first time I felt like I had the time and knowledge to really get to know a more complicated program that spanned several classes and instatiated several objects. 
+I chose this assignment because I believe this was one of the first projects that I worked on at Westminster. 
+In Intro to Data Structures we had 5-Iterations of this project, which I think meant 5 weeks that we spent on it. 
+It was the first time I felt like I had the time and knowledge to really get to know a more complicated program 
+that spanned several classes and instatiated several objects. 
