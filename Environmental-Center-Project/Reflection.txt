@@ -12,4 +12,8 @@ College Wide Learning Goals:
 	'Creativity', 
 	'Critical Thinking'
 
-Wow I really think this project applies to all of the college-wide learning goals. This is a project done for the Environmental Center at Westminster. They had a lot of data that was kept and maintained with Microsoft Excel. The goal of the project was to set up a database for them so they could better access and query data about water usage, billing, and anything else in their data. This would save lots of time, while also allowing them to get answers to more complex questions and make smarter decisions. 
+Wow I really think this project applies to all of the college-wide learning goals. This is a project done for the
+Environmental Center at Westminster. They had a lot of data that was kept and maintained with Microsoft Excel. The 
+goal of the project was to set up a database for them so they could better access and query data about water usage, 
+billing, and anything else in their data. This would save lots of time, while also allowing them to get answers to 
+more complex questions and make smarter decisions. 
