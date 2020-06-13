@@ -3,6 +3,12 @@ Simplified Java Compiler Reflection
 CS Learning Goals: 'To develop effective problem solving skills'
 College wide goals: 'Critical Thinking'
 
-This was an awesome project. As the name implies it's a compiler for a subset of the Java language. It implements many of the core features, like classes, methods, variables, if-statements, switch-statements, for/while/do-while loops and more. However, it doesn't implement the full Java language; for example, it doesn't implement generics. 
+This was an awesome project. As the name implies it's a compiler for a subset of the Java language. 
+It implements many of the core features, like classes, methods, variables, if-statements, switch-statements, 
+for/while/do-while loops and more. However, it doesn't implement the full Java language; for example, 
+it doesn't implement generics. 
 
-I chose it because it's just really cool to peek behind the curtains and see a little bit of how programming languages are actually constructed and translated to (in this case) JVM code. I think you can be a good developer without ever knowing about how your programs and translated into executable machine code; but since high-level programming languages are used almost everywhere, it's great to have some knowledge about how they work. 
+I chose it because it's just really cool to peek behind the curtains and see a little bit of how programming languages 
+are actually constructed and translated to (in this case) JVM code. You can be a good application developer without ever 
+knowing how your programs are translated into executable machine code; but since high-level programming languages 
+are used almost everywhere, it's great to have some knowledge about how they work. 
