@@ -1,10 +1,10 @@
-simplified-java-compiler/out/
-simplified-java-compiler/test-files/**/*.j
-simplified-java-compiler/test-files/**/*.ast
-simplified-java-compiler/test-files/**/*.class
-simplified-java-compiler/compiled/**/*.j
-simplified-java-compiler/compiled/**/*.ast
-simplified-java-compiler/assembled/**/*.class
+/out/
+/test-files/**/*.j
+/test-files/**/*.ast
+/test-files/**/*.class
+/compiled/**/*.j
+/compiled/**/*.ast
+/assembled/**/*.class
 
 
 
